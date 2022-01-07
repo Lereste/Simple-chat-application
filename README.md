@@ -1,8 +1,8 @@
-BE: https://chatengine.io/
+## BE: https://chatengine.io/
 
 ## Admin account:
 
-  Userame:
+  Username:
     `Lereste`
   
   Password:
@@ -10,7 +10,7 @@ BE: https://chatengine.io/
   
 ## User account:
 
-  Userame:
+  Username:
     `User`
   
   Password:
